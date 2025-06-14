@@ -4,16 +4,11 @@ import pandas as pd
 from Bio import Entrez
 from tqdm import tqdm
 
-Entrez.email = "your.email@example.com"  # <- unbedingt setzen!
+Entrez.email = "sebasbaier@gmail.com"
 
-# Liste der Spezies
-species_list = [
-    "Streptomyces abikoensis", "Streptomyces ahygroscopicus", "Streptomyces alanosinicus",
-    "Streptomyces albulus", "Streptomyces amakusaensis", "Streptomyces blastmyceticus",
-    "Streptomyces caelestis", "Streptomyces chattanoogensis", "Streptomyces diastatochromogenes",
-    "Streptomyces galilaeus", "Streptomyces janthinus", "Streptomyces lydicus",
-    "Streptomyces mycarofaciens", "Streptomyces noursei"
-]
+# Spezies aus Datei einlesen
+with open("../00_List_of_streptomyces_basis.txt") as f:
+    species_list = [line.strip() for line in f if line.strip()]
 
 # Qualitätsstufen in Präferenzreihenfolge
 quality_order = ["Complete Genome", "Chromosome", "Scaffold", "Contig"]
