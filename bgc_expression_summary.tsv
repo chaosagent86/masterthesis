@@ -1,0 +1,148 @@
+Cluster	Cluster_type	Genes_total	Genes_expressed	Reads_total	Mean_reads_per_gene	Completeness	Status	Missing_genes
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_682643_682646	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_region_T1PKS_379039_470217	region	62	53	1292	20.84	85.5%	partly	OMCOBO_00400, OMCOBO_00409, OMCOBO_00421, OMCOBO_00422, OMCOBO_00426, OMCOBO_00442, OMCOBO_00445, OMCOBO_00451, OMCOBO_00454
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1648986_1648989	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_cand_cluster_NI-siderophore_2020529_2050332	cand_cluster	23	23	11647	506.39	100.0%	complete	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_178980_178983	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_region_hydrogen-cyanide_3016917_3046876	region	22	21	778	35.36	95.5%	partly	OMCOBO_07452
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_3036696_3036699	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_region_NI-siderophore_782357_815041	region	24	24	8669	361.21	100.0%	complete	-
+contig_3_cand_cluster_NI-siderophore_782357_815041	cand_cluster	24	24	8669	361.21	100.0%	complete	-
+contig_3_cand_cluster_butyrolactone_2157562_2168483	cand_cluster	10	10	327	32.7	100.0%	complete	-
+contig_3_cand_cluster_NRPS_914348_975474	cand_cluster	39	39	7338	188.15	100.0%	complete	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_438590_438593	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1631831_1631834	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_cand_cluster_NRPS_677506_725162	cand_cluster	35	35	1897	54.2	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1401550_1401553	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_160427_160430	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1719076_1719079	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_326332_326335	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_lanthipeptide-class-iii_2636705_2659324	cand_cluster	18	18	4737	263.17	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_901286_901289	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_oligosaccharide_1662985_1689194	cand_cluster	21	21	1018	48.48	100.0%	complete	-
+contig_2_region_T1PKS_942090_1051971	region	36	36	13272	368.67	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1632233_1632236	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_T2PKS_1619137_1691662	cand_cluster	66	65	7106	107.67	98.5%	partly	OMCOBO_06161
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1049344_1049347	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_cand_cluster_NAPAA_5094169_5128384	cand_cluster	30	29	4620	154.0	96.7%	partly	OMCOBO_04570
+contig_2_cand_cluster_T1PKS_749397_797301	cand_cluster	34	32	2230	65.59	94.1%	partly	OMCOBO_00702, OMCOBO_00731
+contig_3_region_NRPS_1693838_1737379	region	38	38	4928	129.68	100.0%	complete	-
+contig_2_cand_cluster_T1PKS_379039_426437	cand_cluster	38	33	629	16.55	86.8%	partly	OMCOBO_00400, OMCOBO_00409, OMCOBO_00421, OMCOBO_00422, OMCOBO_00426
+contig_3_cand_cluster_pyrrolidine_2118065_2168483	cand_cluster	43	43	4482	104.23	100.0%	complete	-
+contig_3_cand_cluster_terpene_1847315_1873993	cand_cluster	25	25	4624	184.96	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_2494092_2494095	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_NRPS-like_2621623_2664623	cand_cluster	37	37	10801	291.92	100.0%	complete	-
+contig_3_cand_cluster_hydrogen-cyanide_3016917_3046876	cand_cluster	22	21	778	35.36	95.5%	partly	OMCOBO_07452
+contig_3_cand_cluster_terpene_2614748_2637945	cand_cluster	23	23	6315	274.57	100.0%	complete	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_767800_767803	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_1_cand_cluster_T1PKS_0_76890	cand_cluster	17	17	18031	1060.65	100.0%	complete	-
+contig_3_cand_cluster_PKS-like_947711_988740	cand_cluster	28	28	5007	178.82	100.0%	complete	-
+contig_3_cand_cluster_RRE-containing_3023621_3046876	cand_cluster	15	15	596	39.73	100.0%	complete	-
+contig_2_cand_cluster_lanthipeptide-class-i_231076_256509	cand_cluster	26	22	1131	43.5	84.6%	partly	OMCOBO_00259, OMCOBO_00264, OMCOBO_00267, OMCOBO_00270
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_240736_240739	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_711043_711046	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_NAPAA_2131888_2165848	cand_cluster	27	27	3416	126.52	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_903830_903833	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_282041_282044	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_lanthipeptide-class-i_1377913_1403167	cand_cluster	27	24	4009	148.48	88.9%	partly	OMCOBO_05930, OMCOBO_05932, OMCOBO_05951
+contig_3_region_butyrolactone_2423601_2434600	region	8	8	435	54.38	100.0%	complete	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_451170_451173	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_butyrolactone_2706670_2717606	cand_cluster	9	9	1481	164.56	100.0%	complete	-
+contig_3_region_terpene_1847315_1873993	region	25	25	4624	184.96	100.0%	complete	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_454752_454755	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_261961_261964	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1041517_1041520	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_region_RiPP-like_1107517_1117733	region	7	7	137	19.57	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_982737_982740	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_region_NRPS-like_159806_202908	region	41	35	962	23.46	85.4%	partly	OMCOBO_00188, OMCOBO_00195, OMCOBO_00196, OMCOBO_00198, OMCOBO_00202, OMCOBO_00203
+contig_3_cand_cluster_NAPAA_2954115_2989372	cand_cluster	33	30	1483	44.94	90.9%	partly	OMCOBO_07393, OMCOBO_07416, OMCOBO_07418
+contig_3_cand_cluster_T3PKS_873849_914902	cand_cluster	26	26	3517	135.27	100.0%	complete	-
+contig_3_cand_cluster_lanthipeptide-class-v_1610635_1652758	cand_cluster	33	32	6154	186.48	97.0%	partly	OMCOBO_06161
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1646683_1646686	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_5118536_5118539	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_452196_452199	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1401601_1401604	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_2127532_2127535	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1170401_1170404	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1173541_1173544	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_NRPS_1693838_1736523	cand_cluster	37	37	4574	123.62	100.0%	complete	-
+contig_3_region_NAPAA_2954115_2989372	region	33	30	1483	44.94	90.9%	partly	OMCOBO_07393, OMCOBO_07416, OMCOBO_07418
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_710794_710797	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_region_transAT-PKS_242821_350888	region	46	46	22107	480.59	100.0%	complete	-
+contig_3_cand_cluster_butyrolactone_913685_924711	cand_cluster	8	8	2469	308.62	100.0%	complete	-
+contig_3_cand_cluster_atropopeptide_2852432_2873648	cand_cluster	19	18	1749	92.05	94.7%	partly	OMCOBO_07304
+contig_1_region_T1PKS_0_76890	region	17	17	18031	1060.65	100.0%	complete	-
+contig_2_cand_cluster_ectoine_2116351_2126762	cand_cluster	11	11	3692	335.64	100.0%	complete	-
+contig_2_cand_cluster_T1PKS_942090_1051971	cand_cluster	36	36	13272	368.67	100.0%	complete	-
+contig_2_region_NAPAA_5094169_5128384	region	30	29	4620	154.0	96.7%	partly	OMCOBO_04570
+contig_3_cand_cluster_RiPP-like_1024053_1034893	cand_cluster	11	11	514	46.73	100.0%	complete	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1033000_1033003	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_NRPS_1693838_1737379	cand_cluster	38	38	4928	129.68	100.0%	complete	-
+contig_3_cand_cluster_butyrolactone_2423601_2434600	cand_cluster	8	8	435	54.38	100.0%	complete	-
+contig_3_cand_cluster_lanthipeptide-class-v_1610635_1691662	cand_cluster	69	68	9121	132.19	98.6%	partly	OMCOBO_06161
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_262950_262953	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1220589_1220592	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_pyrrolidine_2118065_2150285	cand_cluster	25	25	3804	152.16	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1397391_1397394	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_2495761_2495764	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1644916_1644919	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_cand_cluster_T1PKS_379039_470217	cand_cluster	62	53	1292	20.84	85.5%	partly	OMCOBO_00400, OMCOBO_00409, OMCOBO_00421, OMCOBO_00422, OMCOBO_00426, OMCOBO_00442, OMCOBO_00445, OMCOBO_00451, OMCOBO_00454
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_683228_683231	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_2627336_2627339	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1869575_1869578	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_cand_cluster_RiPP-like_1107517_1117733	cand_cluster	7	7	137	19.57	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_980379_980382	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_region_lanthipeptide-class-i_1377913_1403167	region	27	24	4009	148.48	88.9%	partly	OMCOBO_05930, OMCOBO_05932, OMCOBO_05951
+contig_3_region_terpene_2614748_2664623	region	46	46	11155	242.5	100.0%	complete	-
+contig_2_cand_cluster_terpene-precursor_51009_72086	cand_cluster	19	18	1206	63.47	94.7%	partly	OMCOBO_00088
+contig_3_region_CDPS_2484341_2505049	region	20	19	3796	189.8	95.0%	partly	OMCOBO_06966
+contig_2_region_terpene_671896_728216	region	43	42	1988	46.23	97.7%	partly	OMCOBO_00635
+contig_2_region_T1PKS_749397_797301	region	34	32	2230	65.59	94.1%	partly	OMCOBO_00702, OMCOBO_00731
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1396977_1396980	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_2976830_2976833	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_796628_796631	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_179986_179989	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_cand_cluster_T2PKS_1150384_1222900	cand_cluster	70	68	3562	50.89	97.1%	partly	OMCOBO_01011, OMCOBO_01014
+contig_3_cand_cluster_deazapurine_1710000_1737379	cand_cluster	19	19	3803	200.16	100.0%	complete	-
+contig_2_region_terpene_4413876_4436174	region	18	18	1786	99.22	100.0%	complete	-
+contig_2_cand_cluster_terpene_671896_694775	cand_cluster	21	20	1147	54.62	95.2%	partly	OMCOBO_00635
+contig_2_cand_cluster_terpene_671896_728216	cand_cluster	43	42	1988	46.23	97.7%	partly	OMCOBO_00635
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1649151_1649154	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1040458_1040461	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_region_azole-containing-RiPP_4370008_4393356	region	26	26	1988	76.46	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1719424_1719427	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_cand_cluster_NRPS-like_159806_202908	cand_cluster	41	35	962	23.46	85.4%	partly	OMCOBO_00188, OMCOBO_00195, OMCOBO_00196, OMCOBO_00198, OMCOBO_00202, OMCOBO_00203
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1035906_1035909	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_919426_919429	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_cand_cluster_hydrogen-cyanide_3016917_3030032	cand_cluster	11	10	317	28.82	90.9%	partly	OMCOBO_07452
+contig_3_cand_cluster_T3PKS_873849_988740	cand_cluster	75	75	13113	174.84	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_3023512_3023515	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_region_RiPP-like_1024053_1034893	region	11	11	514	46.73	100.0%	complete	-
+contig_3_region_lanthipeptide-class-v_1610635_1691662	region	69	68	9121	132.19	98.6%	partly	OMCOBO_06161
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_2712402_2712405	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_region_terpene-precursor_51009_72086	region	19	18	1206	63.47	94.7%	partly	OMCOBO_00088
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_718597_718600	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_334127_334130	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_region_T2PKS_1150384_1222900	region	70	68	3562	50.89	97.1%	partly	OMCOBO_01011, OMCOBO_01014
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1035897_1035900	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_cand_cluster_NRPS_411945_470217	cand_cluster	37	32	757	20.46	86.5%	partly	OMCOBO_00426, OMCOBO_00442, OMCOBO_00445, OMCOBO_00451, OMCOBO_00454
+contig_3_region_T3PKS_873849_988740	region	75	75	13113	174.84	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1715548_1715551	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_region_lanthipeptide-class-i_231076_256509	region	26	22	1131	43.5	84.6%	partly	OMCOBO_00259, OMCOBO_00264, OMCOBO_00267, OMCOBO_00270
+contig_3_region_pyrrolidine_2118065_2168483	region	43	43	4482	104.23	100.0%	complete	-
+contig_2_cand_cluster_azole-containing-RiPP_4370008_4393356	cand_cluster	26	26	1988	76.46	100.0%	complete	-
+contig_3_cand_cluster_transAT-PKS_242821_350888	cand_cluster	46	46	22107	480.59	100.0%	complete	-
+contig_3_region_atropopeptide_2852432_2873648	region	19	18	1749	92.05	94.7%	partly	OMCOBO_07304
+contig_3_cand_cluster_terpene_2614748_2664623	cand_cluster	46	46	11155	242.5	100.0%	complete	-
+contig_2_cand_cluster_terpene_4413876_4436174	cand_cluster	18	18	1786	99.22	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_903829_903832	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_455481_455484	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1635072_1635075	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_region_NI-siderophore_2020529_2050332	region	23	23	11647	506.39	100.0%	complete	-
+contig_3_cand_cluster_CDPS_2484341_2505049	cand_cluster	20	19	3796	189.8	95.0%	partly	OMCOBO_06966
+contig_3_region_butyrolactone_2706670_2717606	region	9	9	1481	164.56	100.0%	complete	-
+contig_2_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1207651_1207654	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_cand_cluster_NRPS-like_686380_728216	cand_cluster	29	29	1501	51.76	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_978224_978227	misc_feature	0	0	0	0.0	0.0%	empty	-
+contig_2_region_ectoine_2116351_2126762	region	11	11	3692	335.64	100.0%	complete	-
+contig_3_misc_feature_tta_leucine_codon,_possible_target_for_bldA_regulation_1650678_1650681	misc_feature	0	0	0	0.0	0.0%	empty	-
