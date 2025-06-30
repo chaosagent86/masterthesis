@@ -73,5 +73,5 @@ if __name__ == "__main__":
         download_assembly_summary()
 
     mapping = parse_assembly_summary("assembly_summary_refseq.txt")
-    accessions = read_accessions("accessions_venezuela.txt")
+    accessions = read_accessions("accessions_transcriptomics.txt")
     download_genomes(accessions, mapping)
