@@ -1,0 +1,979 @@
+GeneID	Product
+OMCOBO_00001	hypothetical protein
+OMCOBO_00002	NysDI
+OMCOBO_00003	Aminotransferase
+OMCOBO_00004	NysN
+OMCOBO_00005	Ferredoxin
+OMCOBO_00006	NysL
+OMCOBO_00007	NysK
+OMCOBO_00009	Beta-ketoacyl synthase
+OMCOBO_00014	ACP S-malonyltransferase
+OMCOBO_00017	Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+OMCOBO_00019	NysDI
+OMCOBO_00020	Aminotransferase
+OMCOBO_00021	NysN
+OMCOBO_00022	Ferredoxin
+OMCOBO_00023	NysL
+OMCOBO_00024	NysK
+OMCOBO_00026	ACP S-malonyltransferase
+OMCOBO_00076	MFS transporter
+OMCOBO_00077	MarR family transcriptional regulator
+OMCOBO_00078	Flavin-dependent monooxygenase
+OMCOBO_00079	DUF402 domain-containing protein
+OMCOBO_00080	rifamycin-inactivating phosphotransferase
+OMCOBO_00082	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentape ptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+OMCOBO_00083	Polyprenyl synthetase
+OMCOBO_00084	Calcium-binding protein
+OMCOBO_00085	2-isopropylmalate synthase
+OMCOBO_00086	Sua5/YciO/YrdC/YwlC family protein
+OMCOBO_00087	Ricin B lectin domain-containing protein
+OMCOBO_00088	Transposase
+OMCOBO_00089	Ricin B lectin domain-containing protein
+OMCOBO_00090	Lipoprotein
+OMCOBO_00091	OLD protein-like TOPRIM domain-containing protein
+OMCOBO_00092	Putative N-acetyltransferase
+OMCOBO_00093	DUF4328 domain-containing protein
+OMCOBO_00094	ArsI/CadI family heavy metal resistance metalloenzyme
+OMCOBO_00095	Putative transcriptional regulator, ArsR family protein
+OMCOBO_00187	Erythromycin esterase
+OMCOBO_00188	Transposase
+OMCOBO_00189	hypothetical protein
+OMCOBO_00190	Lipoprotein
+OMCOBO_00191	FAD-binding domain-containing protein
+OMCOBO_00192	hypothetical protein
+OMCOBO_00193	Transcriptional regulator
+OMCOBO_00194	Transmembrane transport protein
+OMCOBO_00195	ATP-grasp-modified RiPP
+OMCOBO_00196	hypothetical protein
+OMCOBO_00197	Transcriptional regulator
+OMCOBO_00198	hypothetical protein
+OMCOBO_00199	TetR family transcriptional regulator
+OMCOBO_00200	Ricin-type beta-trefoil lectin domain-like
+OMCOBO_00201	Cytochrome P450
+OMCOBO_00202	hypothetical protein
+OMCOBO_00203	N-acetyltransferase
+OMCOBO_00204	Cytochrome
+OMCOBO_00205	Transposase
+OMCOBO_00206	HD domain-containing protein
+OMCOBO_00207	hypothetical protein
+OMCOBO_00208	Transcriptional regulator with aminotransferase type sensor, AraC family
+OMCOBO_00209	Winged helix-turn helix domain-containing protein
+OMCOBO_00210	Tc1-like transposase DDE domain-containing protein
+OMCOBO_00211	Non-ribosomal peptide synthetase
+OMCOBO_00212	Methyltransferase/methylase
+OMCOBO_00213	Tyrosine phenol-lyase
+OMCOBO_00214	Transposase
+OMCOBO_00215	hypothetical protein
+OMCOBO_00216	Serine/threonine protein kinase
+OMCOBO_00217	DEAD/DEAH box helicase
+OMCOBO_00218	hypothetical protein
+OMCOBO_00219	Oxidoreductase
+OMCOBO_00220	TetR family transcriptional regulator
+OMCOBO_00221	Glutamine amidotransferase type-2 domain-containing protein
+OMCOBO_00222	Aryl-phospho-beta-D-glucosidase BglC, GH1 family
+OMCOBO_00223	Transglycosylase
+OMCOBO_00224	Major cold shock protein CspA
+OMCOBO_00225	PASTA domain-containing protein
+OMCOBO_00226	Penicillinase repressor
+OMCOBO_00227	Peptidase M48
+OMCOBO_00253	TetR family transcriptional regulator
+OMCOBO_00254	Glyoxalase
+OMCOBO_00255	Transcriptional regulator
+OMCOBO_00256	Anti-sigma factor antagonist
+OMCOBO_00257	Serine/threonine protein phosphatase
+OMCOBO_00258	Cobalamin-binding protein
+OMCOBO_00259	Sulfate transporter
+OMCOBO_00260	ATP-binding protein
+OMCOBO_00261	Anti-sigma factor antagonist
+OMCOBO_00262	B/F/G family RNA polymerase sigma-70 factor
+OMCOBO_00263	Glycosyl transferase
+OMCOBO_00264	OmpR/PhoB-type domain-containing protein
+OMCOBO_00265	Subtilin biosynthesis protein spaC
+OMCOBO_00266	Lantibiotic
+OMCOBO_00267	Lantibiotic dehydratase N-terminal domain-containing protein
+OMCOBO_00268	Thiopeptide-type bacteriocin biosynthesis domain-containing protein
+OMCOBO_00269	Membrane protein
+OMCOBO_00270	Secreted protein
+OMCOBO_00271	DUF3558 domain-containing protein
+OMCOBO_00272	SH3b domain-containing protein
+OMCOBO_00273	Methyltransferase type 11
+OMCOBO_00274	TetR family transcriptional regulator
+OMCOBO_00275	DUF4344 domain-containing protein
+OMCOBO_00276	N-acetyltransferase domain-containing protein
+OMCOBO_00277	Membrane protein
+OMCOBO_00278	Two-component system response regulator
+OMCOBO_00399	Methylated-DNA--protein-cysteine methyltransferase
+OMCOBO_00400	Leucine-binding protein domain-containing protein
+OMCOBO_00401	Alkylated DNA repair protein
+OMCOBO_00402	DUF2277 domain-containing protein
+OMCOBO_00403	Metal-dependent hydrolase
+OMCOBO_00404	Putative flavin reductase/monooxygenase
+OMCOBO_00405	Serine recombinase
+OMCOBO_00406	HTH marR-type domain-containing protein
+OMCOBO_00407	IS5 family transposase
+OMCOBO_00408	Putative non-ribosomal peptide synthetase PstA
+OMCOBO_00409	D-alanine--poly(Phosphoribitol) ligase subunit 2
+OMCOBO_00410	Thioesterase domain-containing protein
+OMCOBO_00411	Cytochrome
+OMCOBO_00412	Taurine catabolism dioxygenase
+OMCOBO_00413	hypothetical protein
+OMCOBO_00414	hypothetical protein
+OMCOBO_00415	Polymerase nucleotidyl transferase domain-containing protein
+OMCOBO_00416	Transposase DDE domain-containing protein
+OMCOBO_00417	Elongation factor Tu-3
+OMCOBO_00418	hypothetical protein
+OMCOBO_00419	Polyketide synthase
+OMCOBO_00420	Putative short-chain dehydrogenase/reductase
+OMCOBO_00421	Short-chain dehydrogenase
+OMCOBO_00422	Polyketide synthase
+OMCOBO_00423	Putative conserved membrane protein, MmpL family
+OMCOBO_00424	hypothetical protein
+OMCOBO_00425	Disulfide bond formation protein B
+OMCOBO_00426	putative protein
+OMCOBO_00427	Transcriptional regulator
+OMCOBO_00428	C4-dicarboxylate ABC transporter
+OMCOBO_00429	Cytochrome ubiquinol oxidase subunit I
+OMCOBO_00430	cytochrome d ubiquinol oxidase subunit II
+OMCOBO_00431	3-ketoacyl-ACP reductase
+OMCOBO_00432	hypothetical protein
+OMCOBO_00433	hypothetical protein
+OMCOBO_00434	hypothetical protein
+OMCOBO_00435	hypothetical protein
+OMCOBO_00437	Transposase
+OMCOBO_00438	ABC transporter
+OMCOBO_00439	ABC transporter ATP-binding protein
+OMCOBO_00440	Transposase
+OMCOBO_00441	Putative drug antiporter protein
+OMCOBO_00442	MbtH protein
+OMCOBO_00443	D-alanine--poly(phosphoribitol) ligase subunit DltA
+OMCOBO_00444	Non-ribosomal peptide synthetase
+OMCOBO_00445	hypothetical protein
+OMCOBO_00446	LuxR family transcriptional regulator
+OMCOBO_00447	LuxR family transcriptional regulator
+OMCOBO_00448	NmrA family transcriptional regulator
+OMCOBO_00449	TetR family transcriptional regulator
+OMCOBO_00450	hypothetical protein
+OMCOBO_00451	Transposase
+OMCOBO_00452	IS5 family transposase
+OMCOBO_00453	Putative DNA binding protein
+OMCOBO_00454	FAD-binding monooxygenase
+OMCOBO_00455	SnoaL-like domain-containing protein
+OMCOBO_00456	DUF1211 domain-containing protein
+OMCOBO_00457	TetR family transcriptional regulator
+OMCOBO_00458	NADP-dependent oxidoreductase
+OMCOBO_00459	Short-chain dehydrogenase
+OMCOBO_00460	Cupin
+OMCOBO_00461	Secreted protein
+OMCOBO_00635	AraC family transcriptional regulator
+OMCOBO_00636	Methyltransferase type 11
+OMCOBO_00637	ABM domain-containing protein
+OMCOBO_00638	UPF0104 family protein
+OMCOBO_00639	hypothetical protein
+OMCOBO_00640	Pyruvate, phosphate dikinase
+OMCOBO_00641	Rieske 2Fe-2S domain-containing protein
+OMCOBO_00642	3-ketosteroid-9-alpha-hydroxylase oxygenase subunit
+OMCOBO_00643	(2Fe-2S) ferredoxin
+OMCOBO_00644	(2E,6E)-farnesyl diphosphate synthase
+OMCOBO_00645	hypothetical protein
+OMCOBO_00646	Lycopene cyclase domain-containing protein
+OMCOBO_00647	Cytochrome P450
+OMCOBO_00648	Protein-tyrosine-phosphatase
+OMCOBO_00649	Short-chain dehydrogenase/reductase
+OMCOBO_00650	TetR family transcriptional regulator
+OMCOBO_00651	ATP-binding protein
+OMCOBO_00652	ABC transporter substrate-binding protein
+OMCOBO_00653	FMN-binding glutamate synthase family protein
+OMCOBO_00654	Alpha/beta fold hydrolase
+OMCOBO_00655	Flavoprotein
+OMCOBO_00656	Regulatory protein AfsR
+OMCOBO_00657	Non-ribosomal peptide synthetase
+OMCOBO_00658	Protein mbtH
+OMCOBO_00659	Alpha/beta fold hydrolase
+OMCOBO_00660	Non-ribosomal peptide synthetase
+OMCOBO_00661	TauD/TfdA-like domain-containing protein
+OMCOBO_00662	MFS transporter
+OMCOBO_00663	HTH luxR-type domain-containing protein
+OMCOBO_00664	Siderophore 2,3-dihydroxybenzoate-glycine-threonine trimeric ester bacillibactin synthetase
+OMCOBO_00665	Potassium-transporting ATPase subunit B
+OMCOBO_00666	Anti-sigma regulatory factor
+OMCOBO_00667	Serine/threonine protein kinase
+OMCOBO_00668	Anti-anti-sigma factor
+OMCOBO_00669	Anti-anti-sigma factor
+OMCOBO_00670	MarR family transcriptional regulator
+OMCOBO_00671	Phosphatase
+OMCOBO_00672	AMP-dependent synthetase
+OMCOBO_00673	FAD-dependent urate hydroxylase HpyO/Asp monooxygenase CreE-like FAD/NAD(P)-binding domain-containing protein
+OMCOBO_00674	TrpB-like pyridoxal phosphate-dependent enzyme
+OMCOBO_00675	Acyl carrier protein
+OMCOBO_00676	Lysine transporter LysE
+OMCOBO_00677	MarR family transcriptional regulator
+OMCOBO_00699	histidine kinase
+OMCOBO_00700	DNA-binding response regulator
+OMCOBO_00701	Ferric reductase
+OMCOBO_00702	FMN-binding protein
+OMCOBO_00703	FAD:protein FMN transferase
+OMCOBO_00704	hypothetical protein
+OMCOBO_00705	Glycosyl transferase
+OMCOBO_00706	Methyltransferase
+OMCOBO_00707	SAM-dependent methyltransferase
+OMCOBO_00708	Type IV secretion protein Rhs
+OMCOBO_00709	hypothetical protein
+OMCOBO_00710	Flavodoxin-like domain-containing protein
+OMCOBO_00711	Dehydrogenase
+OMCOBO_00712	MFS transporter
+OMCOBO_00713	hypothetical protein
+OMCOBO_00714	Polyketide synthase
+OMCOBO_00715	Non-ribosomal peptide synthetase
+OMCOBO_00716	Phthiocerol synthesis polyketide synthase type I PpsE
+OMCOBO_00717	Cytochrome P450
+OMCOBO_00718	Protein mbtH
+OMCOBO_00719	Phosphoribosylglycinamide formyltransferase
+OMCOBO_00720	Membrane-associated oxidoreductase
+OMCOBO_00721	PPOX class F420-dependent enzyme
+OMCOBO_00722	phosphoserine phosphatase
+OMCOBO_00723	Protein kinase
+OMCOBO_00724	GCN5 family N-acetyltransferase
+OMCOBO_00725	Lipoprotein
+OMCOBO_00726	Abasic site processing protein
+OMCOBO_00727	Cytochrome P450
+OMCOBO_00728	histidine kinase
+OMCOBO_00729	DNA-binding response regulator, OmpR family, contains REC and winged-helix (WHTH) domain
+OMCOBO_00730	ABC transporter permease
+OMCOBO_00731	Multidrug ABC transporter ATP-binding protein
+OMCOBO_00732	Lipoprotein
+OMCOBO_00862	Phosphotransferase
+OMCOBO_00863	CSD domain-containing protein
+OMCOBO_00864	Peptide-N4-asparagine amidase A
+OMCOBO_00865	transcriptional regulator CynR
+OMCOBO_00866	MFS transporter
+OMCOBO_00867	Putative succinyl-CoA transferase
+OMCOBO_00868	ABC transporter
+OMCOBO_00869	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family
+OMCOBO_00870	HTH cro/C1-type domain-containing protein
+OMCOBO_00871	DUF3040 domain-containing protein
+OMCOBO_00872	hypothetical protein
+OMCOBO_00873	HNH endonuclease
+OMCOBO_00874	Cholesterol oxidase
+OMCOBO_00875	4'-demethylrebeccamycin synthase
+OMCOBO_00876	Aminotransferase
+OMCOBO_00877	Cytochrome P450 monooxygenase
+OMCOBO_00878	Ferredoxin
+OMCOBO_00879	Polyketide synthase
+OMCOBO_00881	Protein-tyrosine-phosphatase
+OMCOBO_00882	sulfolipid-1 biosynthesis phthioceranic/hydroxyphthioceranic acid synthase
+OMCOBO_00887	Cytochrome P450 monooxygenase
+OMCOBO_00888	Polyketide synthase
+OMCOBO_00890	Type I polyketide synthase
+OMCOBO_00892	hypothetical protein
+OMCOBO_00893	hypothetical protein
+OMCOBO_00894	sulfolipid-1 biosynthesis phthioceranic/hydroxyphthioceranic acid synthase
+OMCOBO_00900	HTH luxR-type domain-containing protein
+OMCOBO_00901	Putative transcriptional regulator
+OMCOBO_00902	HTH luxR-type domain-containing protein
+OMCOBO_00903	Putative transcriptional regulator
+OMCOBO_00904	GDP-mannose 4,6-dehydratase
+OMCOBO_00905	Putative ABC transporter
+OMCOBO_00906	Putative ABC transporter
+OMCOBO_00907	crotonyl-CoA carboxylase/reductase
+OMCOBO_00908	FAD-binding domain-containing protein
+OMCOBO_00910	DUF418 domain-containing protein
+OMCOBO_00965	NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit
+OMCOBO_00966	HlyD family secretion protein
+OMCOBO_00967	Type A2 lantipeptide
+OMCOBO_00968	PHP domain-containing protein
+OMCOBO_00969	LysR family transcriptional regulator
+OMCOBO_00970	glycine C-acetyltransferase
+OMCOBO_00971	L-threonine 3-dehydrogenase
+OMCOBO_01000	Molybdenum-binding protein
+OMCOBO_01001	Molybdopterin-binding oxidoreductase
+OMCOBO_01002	Aldehyde oxidase
+OMCOBO_01003	FAD-binding molybdopterin dehydrogenase
+OMCOBO_01004	Purine catabolism regulatory protein-like family
+OMCOBO_01005	Mop domain-containing protein
+OMCOBO_01006	Gram-positive cocci surface proteins LPxTG domain-containing protein
+OMCOBO_01007	Peptidase
+OMCOBO_01008	Alkylmercury lyase
+OMCOBO_01009	Methyltransferase type 11 domain-containing protein
+OMCOBO_01010	BioF2-like acetyltransferase domain-containing protein
+OMCOBO_01011	hypothetical protein
+OMCOBO_01012	Transposase
+OMCOBO_01013	hypothetical protein
+OMCOBO_01014	DUF6895 domain-containing protein
+OMCOBO_01015	DUF6895 domain-containing protein
+OMCOBO_01016	Penicillin-binding protein
+OMCOBO_01017	NB-ARC domain-containing protein
+OMCOBO_01018	Metallo-beta-lactamase domain-containing protein
+OMCOBO_01019	Hydroxyneurosporene-O-methyltransferase
+OMCOBO_01020	hypothetical protein
+OMCOBO_01021	SPW repeat protein
+OMCOBO_01022	Dolichol-P-glucose synthetase-like protein
+OMCOBO_01023	Trans-aconitate methyltransferase
+OMCOBO_01024	D-inositol 3-phosphate glycosyltransferase
+OMCOBO_01025	6-carboxy-5,6,7,8-tetrahydropterin synthase
+OMCOBO_01026	Dehydrogenase
+OMCOBO_01027	Membrane protein
+OMCOBO_01028	Small hydrophobic protein
+OMCOBO_01029	Antitoxin
+OMCOBO_01030	Right handed beta helix domain-containing protein
+OMCOBO_01031	O-methyltransferase family 2
+OMCOBO_01032	Uncharacterized protein SCO5314
+OMCOBO_01033	Polyketide cyclase
+OMCOBO_01034	Curamycin polyketide synthase
+OMCOBO_01035	Putative polyketide beta-ketoacyl synthase 2
+OMCOBO_01036	Putative ketoacyl synthase
+OMCOBO_01037	Putative thiaminase II-like protein
+OMCOBO_01038	Protein in whiE locus
+OMCOBO_01039	Monooxygenase
+OMCOBO_01040	hypothetical protein
+OMCOBO_01041	Glutathione peroxidase
+OMCOBO_01042	Histidine kinase
+OMCOBO_01043	ABC transporter
+OMCOBO_01044	apolipoprotein N-acyltransferase
+OMCOBO_01045	Oxidoreductase
+OMCOBO_01046	Monooxygenase
+OMCOBO_01047	Tetracyclin repressor-like C-terminal group 31 domain-containing protein
+OMCOBO_01048	Tetratricopeptide repeat protein
+OMCOBO_01049	uracil-DNA glycosylase
+OMCOBO_01050	Putative oxidoreductase
+OMCOBO_01051	Glucose 1-dehydrogenase
+OMCOBO_01052	3-oxoacyl-ACP reductase
+OMCOBO_01053	DUF3037 domain-containing protein
+OMCOBO_01054	HipA-like kinase domain-containing protein
+OMCOBO_01055	TraSA:integrase fusion protein
+OMCOBO_01056	Multidrug ABC transporter permease
+OMCOBO_01057	Short-chain dehydrogenase
+OMCOBO_01058	SsuA/THI5-like domain-containing protein
+OMCOBO_01059	LuxR family transcriptional regulator
+OMCOBO_01060	histidine kinase
+OMCOBO_01061	DUF4190 domain-containing protein
+OMCOBO_01062	Serine hydrolase
+OMCOBO_01063	N-acetyltransferase domain-containing protein
+OMCOBO_01064	Zinc finger CGNR domain-containing protein
+OMCOBO_01065	Haloalkane dehalogenase
+OMCOBO_01066	Esterase
+OMCOBO_01067	HxlR family transcriptional regulator
+OMCOBO_01068	Histidine kinase
+OMCOBO_01069	Acetyltransferase
+OMCOBO_01793	Hemolysin A
+OMCOBO_01794	hypothetical protein
+OMCOBO_01795	SCP2 domain-containing protein
+OMCOBO_01796	ABC transporter
+OMCOBO_01797	ABC transporter permease
+OMCOBO_01798	Ferrichrome ABC transport system permease protein
+OMCOBO_01799	ABC transporter substrate-binding protein
+OMCOBO_01800	Siderophore-interacting protein
+OMCOBO_01801	HAD family hydrolase
+OMCOBO_01802	Chromosome partitioning protein ParA
+OMCOBO_01803	L-2 C4-diaminobutyrate decarboxylase
+OMCOBO_01804	L-lysine N6-monooxygenase MbtG
+OMCOBO_01805	Lysine N-acyltransferase MbtK
+OMCOBO_01806	IucA/IucC family protein
+OMCOBO_01807	Tetratricopeptide TPR_4
+OMCOBO_01808	hypothetical protein
+OMCOBO_01812	DNA-3-methyladenine glycosylase
+OMCOBO_01813	Sporulation protein
+OMCOBO_01814	YbhB/YbcL family Raf kinase inhibitor-like protein
+OMCOBO_01815	HNH nuclease domain-containing protein
+OMCOBO_01816	putative membrane transporter protein
+OMCOBO_01817	Band 7 domain-containing protein
+OMCOBO_01818	NfeD family protein
+OMCOBO_01885	IacB
+OMCOBO_01886	Transcriptional regulator
+OMCOBO_01887	Amidohydrolase
+OMCOBO_01888	diaminobutyrate acetyltransferase
+OMCOBO_01889	diaminobutyrate--2-oxoglutarate transaminase
+OMCOBO_01890	L-ectoine synthase
+OMCOBO_01891	ectoine hydroxylase
+OMCOBO_01892	NADH:flavin oxidoreductase/NADH oxidase
+OMCOBO_01893	Aminotransferase class V domain-containing protein
+OMCOBO_01894	Protein-disulfide isomerase
+OMCOBO_01895	Methyltransferase
+OMCOBO_03889	Toxin
+OMCOBO_03890	Protein-L-isoaspartate O-methyltransferase
+OMCOBO_03891	PhnB-like domain-containing protein
+OMCOBO_03892	GntR family transcriptional regulator
+OMCOBO_03893	Secreted protein
+OMCOBO_03894	RNA polymerase subunit sigma
+OMCOBO_03895	RNA polymerase sigma factor, sigma F
+OMCOBO_03896	Stress-response A/B barrel domain-containing protein
+OMCOBO_03897	Secreted protein
+OMCOBO_03898	DUF2127 domain-containing protein
+OMCOBO_03899	Integral membrane protein
+OMCOBO_03900	hypothetical protein
+OMCOBO_03901	YcaO domain-containing protein
+OMCOBO_03902	Nitroreductase domain-containing protein
+OMCOBO_03903	Short-chain dehydrogenase
+OMCOBO_03904	Short-chain dehydrogenase
+OMCOBO_03905	LysR family transcriptional regulator
+OMCOBO_03907	tRNA adenosine(34) deaminase TadA
+OMCOBO_03908	tRNA adenosine deaminase-associated protein
+OMCOBO_03909	uracil phosphoribosyltransferase
+OMCOBO_03910	Membrane protein
+OMCOBO_03911	Type II toxin-antitoxin system VapB family antitoxin
+OMCOBO_03912	DUF4232 domain-containing protein
+OMCOBO_03913	Cellulase
+OMCOBO_03914	RNA polymerase sigma24 factor
+OMCOBO_03915	Gram-positive cocci surface proteins LPxTG domain-containing protein
+OMCOBO_03939	dimethylargininase
+OMCOBO_03940	AsnC family transcriptional regulator
+OMCOBO_03941	Phosphonate metabolism transcriptional regulator PhnF
+OMCOBO_03942	MFS transporter
+OMCOBO_03943	Ricin B lectin domain-containing protein
+OMCOBO_03944	Hydrolase
+OMCOBO_03945	Alpha-aminoadipate--LysW ligase LysX
+OMCOBO_03946	ATP-grasp domain-containing protein
+OMCOBO_03947	family 2 encapsulin nanocompartment cargo protein terpene cyclase
+OMCOBO_03948	RNA polymerase sigma24 factor
+OMCOBO_03949	Alkyl hydroperoxide reductase AhpD
+OMCOBO_03950	Peptidase M20 domain-containing protein 2
+OMCOBO_03951	Major facilitator superfamily (MFS) profile domain-containing protein
+OMCOBO_03952	Transcriptional regulator
+OMCOBO_03953	DNA-binding response regulator
+OMCOBO_03954	histidine kinase
+OMCOBO_03955	Integral membrane protein
+OMCOBO_03956	hypothetical protein
+OMCOBO_04561	malate dehydrogenase
+OMCOBO_04562	Membrane protein
+OMCOBO_04563	DUF3618 domain-containing protein
+OMCOBO_04564	Serine/arginine repetitive matrix protein 2
+OMCOBO_04565	DUF5988 domain-containing protein
+OMCOBO_04566	Lipoprotein
+OMCOBO_04567	Betaine aldehyde dehydrogenase
+OMCOBO_04568	GMC family oxidoreductase
+OMCOBO_04569	Choline ABC transporter C ATP-binding protein
+OMCOBO_04570	Integrase
+OMCOBO_04571	choline ABC transporter permease subunit
+OMCOBO_04572	Glycine/betaine ABC transporter substrate-binding protein
+OMCOBO_04573	Biotin-protein ligase N-terminal domain-containing protein
+OMCOBO_04574	Amino acid adenylation protein
+OMCOBO_04575	hypothetical protein
+OMCOBO_04576	trans-2-enoyl-CoA reductase (NAD(+))
+OMCOBO_04577	Peptidase
+OMCOBO_04578	DUF397 domain-containing protein
+OMCOBO_04579	Transcriptional regulator
+OMCOBO_04580	ATPase
+OMCOBO_04581	hypothetical protein
+OMCOBO_04582	IclR-ED domain-containing protein
+OMCOBO_04583	Integral membrane protein
+OMCOBO_04584	D-alanyl-D-alanine carboxypeptidase
+OMCOBO_04585	Membrane protein
+OMCOBO_04586	Phosphoesterase
+OMCOBO_04587	tryptophan--tRNA ligase
+OMCOBO_04588	Serine hydroxymethyltransferase
+OMCOBO_04589	ornithine--oxo-acid transaminase
+OMCOBO_04590	Integral membrane protein
+OMCOBO_05003	Transcriptional regulator
+OMCOBO_05004	50S ribosomal protein L31
+OMCOBO_05005	peptide chain release factor 1
+OMCOBO_05006	peptide chain release factor N(5)-glutamine methyltransferase
+OMCOBO_05007	L-threonylcarbamoyladenylate synthase
+OMCOBO_05008	Phosphotyrosine protein phosphatase I domain-containing protein
+OMCOBO_05009	Serine hydroxymethyltransferase
+OMCOBO_05010	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+OMCOBO_05011	ATP synthase I
+OMCOBO_05012	F0F1 ATP synthase subunit A
+OMCOBO_05013	ATP synthase F0 subunit C
+OMCOBO_05014	F0F1 ATP synthase subunit B
+OMCOBO_05015	F0F1 ATP synthase subunit delta
+OMCOBO_05016	F0F1 ATP synthase subunit alpha
+OMCOBO_05017	F0F1 ATP synthase subunit gamma
+OMCOBO_05018	F0F1 ATP synthase subunit beta
+OMCOBO_05019	F0F1 ATP synthase subunit epsilon
+OMCOBO_05020	DUF2550 domain-containing protein
+OMCOBO_05021	Cytochrome P450
+OMCOBO_05022	beta-ketoacyl-ACP synthase II
+OMCOBO_05023	amino acid adenylation domain-containing protein
+OMCOBO_05024	OzmP
+OMCOBO_05025	Putative polyketide synthase
+OMCOBO_05026	polyketide synthase Pks13
+OMCOBO_05027	beta-ketoacyl synthase N-terminal-like domain-containing protein
+OMCOBO_05028	Non-ribosomal peptide synthetase
+OMCOBO_05029	Multidrug-efflux transporter
+OMCOBO_05030	ACP S-malonyltransferase
+OMCOBO_05031	Cytochrome P450
+OMCOBO_05032	Cytochrome P450
+OMCOBO_05033	NADPH:quinone reductase
+OMCOBO_05034	4'-phosphopantetheinyl transferase
+OMCOBO_05035	2,4-diaminopentanoate dehydrogenase C-terminal domain-containing protein
+OMCOBO_05036	DNA-binding response regulator
+OMCOBO_05037	histidine kinase
+OMCOBO_05038	Integral membrane protein
+OMCOBO_05039	Corrinoid adenosyltransferase
+OMCOBO_05040	3-hydroxybutyryl-CoA dehydrogenase
+OMCOBO_05041	Anti-sigma factor antagonist
+OMCOBO_05042	ATPase AAA
+OMCOBO_05043	endonuclease NucS
+OMCOBO_05044	SCO5389 family protein
+OMCOBO_05045	Alkane 1-monooxygenase
+OMCOBO_05046	ATP/GTP-binding protein
+OMCOBO_05047	ABC transporter
+OMCOBO_05048	ABC transporter ATP-binding protein
+OMCOBO_05412	Aromatic ring-opening dioxygenase LigB
+OMCOBO_05413	Gliding motility protein
+OMCOBO_05414	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+OMCOBO_05415	Transmembrane protein
+OMCOBO_05416	diaminopimelate epimerase
+OMCOBO_05417	Kinase
+OMCOBO_05418	Aminopeptidase N
+OMCOBO_05419	GTPase HflX
+OMCOBO_05420	V8-like Glu-specific endopeptidase
+OMCOBO_05421	Diaminobutyrate--2-oxoglutarate transaminase family protein
+OMCOBO_05422	IucA/IucC family protein
+OMCOBO_05423	Lysine N-acyltransferase MbtK
+OMCOBO_05424	Siderophore biosynthesis protein IucA
+OMCOBO_05425	DNA 5'-3' helicase
+OMCOBO_05426	transcriptional repressor LexA
+OMCOBO_05427	transcriptional regulator NrdR
+OMCOBO_05429	vitamin B12-dependent ribonucleotide reductase
+OMCOBO_05430	Hydrolase
+OMCOBO_05431	TerD-family protein
+OMCOBO_05432	DUF4937 domain-containing protein
+OMCOBO_05433	Phosphoglycerate mutase
+OMCOBO_05434	Hydrolase
+OMCOBO_05435	ribonuclease HII
+OMCOBO_05436	hypothetical protein
+OMCOBO_05486	Osmosensitive K+ channel histidine kinase kdpD
+OMCOBO_05487	DNA-binding protein
+OMCOBO_05488	Integral membrane protein
+OMCOBO_05489	Trk system potassium uptake protein TrkA
+OMCOBO_05490	Trk system potassium uptake protein TrkA
+OMCOBO_05491	Potassium transporter TrkA
+OMCOBO_05492	Amino acid transporter
+OMCOBO_05493	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+OMCOBO_05497	TetR family transcriptional regulator
+OMCOBO_05498	MFS transporter
+OMCOBO_05499	Type III PKS C putative chalcone synthase
+OMCOBO_05500	Biflaviolin synthase CYP158A2
+OMCOBO_05501	Secreted protein
+OMCOBO_05502	MarR family transcriptional regulator
+OMCOBO_05503	ABC transporter ATP-binding protein
+OMCOBO_05504	Transport permease protein
+OMCOBO_05505	Cell division protein SepF
+OMCOBO_05506	Biotin transporter BioY
+OMCOBO_05507	Nucleotide pyrophosphohydrolase
+OMCOBO_05508	Ferritin-like metal-binding protein YciE
+OMCOBO_05509	hypothetical protein
+OMCOBO_05510	LLM class F420-dependent oxidoreductase
+OMCOBO_05511	3' terminal RNA ribose 2'-O-methyltransferase Hen1
+OMCOBO_05512	polynucleotide kinase-phosphatase
+OMCOBO_05513	Arginine deiminase
+OMCOBO_05514	ornithine carbamoyltransferase
+OMCOBO_05515	Amino acid permease
+OMCOBO_05516	enoyl-CoA hydratase family protein
+OMCOBO_05517	Salicylyl-CoA 5-hydroxylase
+OMCOBO_05518	ScbA/BarX family gamma-butyrolactone biosynthesis protein
+OMCOBO_05519	ScbR family autoregulator-binding transcription factor
+OMCOBO_05520	NADP-dependent oxidoreductase
+OMCOBO_05521	HTH tetR-type domain-containing protein
+OMCOBO_05522	Hydrolase
+OMCOBO_05523	PaaX family transcriptional regulator
+OMCOBO_05524	AMP-dependent synthetase
+OMCOBO_05525	Acyl-CoA dehydrogenase
+OMCOBO_05526	methylmalonate-semialdehyde dehydrogenase (CoA acylating)
+OMCOBO_05527	Putative acyl-CoA dehydrogenase
+OMCOBO_05528	3-hydroxyisobutyryl-CoA hydrolase
+OMCOBO_05529	3-hydroxyisobutyrate dehydrogenase
+OMCOBO_05530	enoyl-CoA hydratase
+OMCOBO_05531	aspartate 1-decarboxylase
+OMCOBO_05532	Protein mbtH
+OMCOBO_05533	Non-ribosomal peptide synthetase
+OMCOBO_05534	TauD/TfdA-like domain-containing protein
+OMCOBO_05535	Non-ribosomal peptide synthetase
+OMCOBO_05536	Non-ribosomal peptide synthetase
+OMCOBO_05537	guanitoxin biosynthesis L-enduracididine beta-hydroxylase GntD
+OMCOBO_05538	3-oxoacyl-(ACP) reductase
+OMCOBO_05539	Cytochrome P450
+OMCOBO_05540	Oleoyl-ACP hydrolase
+OMCOBO_05541	Polyketide synthase
+OMCOBO_05542	PadR family transcriptional regulator
+OMCOBO_05543	ABC transporter permease
+OMCOBO_05544	Ferritin-like domain-containing protein
+OMCOBO_05545	Oleoyl-ACP hydrolase
+OMCOBO_05546	4'-phosphopantetheinyl transferase
+OMCOBO_05547	MFS transporter
+OMCOBO_05548	3-oxoacyl-ACP synthase
+OMCOBO_05549	Glutamate dehydrogenase
+OMCOBO_05550	Acetolactate synthase I/II/III large subunit
+OMCOBO_05551	SET domain-containing protein
+OMCOBO_05552	3-oxoacyl-[acyl-carrier-protein] synthase 2
+OMCOBO_05553	Polyketide synthase
+OMCOBO_05554	Acyl carrier protein
+OMCOBO_05555	Acyl carrier protein
+OMCOBO_05556	Putative acyl-CoA dehydrogenase
+OMCOBO_05557	LuxR family transcriptional regulator
+OMCOBO_05558	hypothetical protein
+OMCOBO_05559	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+OMCOBO_05560	DUF1648 domain-containing protein
+OMCOBO_05561	GntR family transcriptional regulator
+OMCOBO_05562	Nucleotidyltransferase
+OMCOBO_05563	argininosuccinate synthase
+OMCOBO_05590	Protease
+OMCOBO_05591	Membrane protein
+OMCOBO_05592	TIGR04222 domain-containing membrane protein
+OMCOBO_05593	UPF0276 protein
+OMCOBO_05594	DUF692 domain-containing protein
+OMCOBO_05595	Lysine transporter LysE
+OMCOBO_05596	peptidyl-tRNA hydrolase
+OMCOBO_05597	ABC transporter ATP-binding protein
+OMCOBO_05598	ABC transporter
+OMCOBO_05599	Hydrolase
+OMCOBO_05600	cell division protein ZapE
+OMCOBO_05930	Transposase
+OMCOBO_05931	Membrane protein
+OMCOBO_05932	Transcriptional regulator WhiB
+OMCOBO_05933	Cell surface glycoprotein
+OMCOBO_05934	DNA-binding protein
+OMCOBO_05936	Transcriptional regulator
+OMCOBO_05937	hypothetical protein
+OMCOBO_05938	UDP-glucose 4-epimerase GalE
+OMCOBO_05939	Acetyltransferase
+OMCOBO_05940	Methyltransferase
+OMCOBO_05941	Lanthionine synthetase
+OMCOBO_05942	Lantibiotic dehydratase
+OMCOBO_05943	Lantibiotic
+OMCOBO_05944	Protein-L-isoaspartate O-methyltransferase
+OMCOBO_05945	hypothetical protein
+OMCOBO_05946	Spore associated protein, SapC
+OMCOBO_05947	Protein kinase domain-containing protein
+OMCOBO_05948	Protein kinase domain-containing protein
+OMCOBO_05949	hypothetical protein
+OMCOBO_05950	HTH luxR-type domain-containing protein
+OMCOBO_05951	hypothetical protein
+OMCOBO_05952	Endonuclease/exonuclease/phosphatase domain-containing protein
+OMCOBO_05953	DUF6302 domain-containing protein
+OMCOBO_05954	DUF6415 domain-containing protein
+OMCOBO_05955	ATPase
+OMCOBO_05956	hypothetical protein
+OMCOBO_05957	XRE family transcriptional regulator
+OMCOBO_06138	site-specific DNA-methyltransferase (adenine-specific)
+OMCOBO_06139	Helicase
+OMCOBO_06140	Integrase
+OMCOBO_06141	Putative recombinase
+OMCOBO_06142	Peptidase M16
+OMCOBO_06143	Phosphopantothenoylcysteine synthetase
+OMCOBO_06144	LLM class F420-dependent oxidoreductase
+OMCOBO_06145	Putative ABC transporter ATP-binding protein
+OMCOBO_06146	Hydroxyneurosporene-O-methyltransferase
+OMCOBO_06147	Thiocillin family RiPP
+OMCOBO_06148	Thiocillin family RiPP
+OMCOBO_06149	hypothetical protein
+OMCOBO_06150	class V lanthionine synthetase subunit LxmK
+OMCOBO_06151	DNA-binding response regulator
+OMCOBO_06152	Membrane protein
+OMCOBO_06153	Integral membrane protein
+OMCOBO_06154	Transcriptional regulator
+OMCOBO_06155	IS630 family transposase
+OMCOBO_06156	Nuclear transport factor 2 family protein
+OMCOBO_06157	hypothetical protein
+OMCOBO_06158	ABC transporter permease
+OMCOBO_06159	Peptide ABC transporter ATP-binding protein
+OMCOBO_06160	Peptidoglycan-binding protein
+OMCOBO_06161	Lipoprotein
+OMCOBO_06162	Putative two-component response regulator
+OMCOBO_06163	histidine kinase
+OMCOBO_06164	hypothetical protein
+OMCOBO_06165	DUF4440 domain-containing protein
+OMCOBO_06166	Nucleotide-diphosphate-sugar epimerase
+OMCOBO_06167	MFS transporter
+OMCOBO_06168	ScbR family autoregulator-binding transcription factor
+OMCOBO_06169	DNA-binding response regulator
+OMCOBO_06170	HTH merR-type domain-containing protein
+OMCOBO_06171	Monooxygenase
+OMCOBO_06172	Cyclase
+OMCOBO_06173	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+OMCOBO_06174	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+OMCOBO_06175	Actinorhodin polyketide synthase acyl carrier protein
+OMCOBO_06176	Putative ketoacyl reductase
+OMCOBO_06177	Cyclase
+OMCOBO_06178	Putative oxygenase
+OMCOBO_06179	Oxidoreductase
+OMCOBO_06180	MFS transporter
+OMCOBO_06181	Acyltransferase
+OMCOBO_06182	FMN reductase
+OMCOBO_06183	Aldo/keto reductase
+OMCOBO_06184	dTDP-glucose 4,6-dehydratase
+OMCOBO_06185	lipopolysaccharide biosynthesis protein RfbH
+OMCOBO_06186	NAD-dependent epimerase
+OMCOBO_06187	NDP-hexose 2,3-dehydratase
+OMCOBO_06188	Oxidoreductase
+OMCOBO_06189	S-adenosyl methyltransferase
+OMCOBO_06190	TetR family transcriptional regulator
+OMCOBO_06191	Glycosyl transferase
+OMCOBO_06192	Glycosyl transferase
+OMCOBO_06193	Cytochrome P450
+OMCOBO_06194	DNTP-hexose glycosyl transferase
+OMCOBO_06195	DNTP-hexose glycosyl transferase
+OMCOBO_06196	dTDP-4-dehydrorhamnose 3,5-epimerase
+OMCOBO_06197	glucose-1-phosphate thymidylyltransferase RfbA
+OMCOBO_06198	Reductase
+OMCOBO_06199	Class I SAM-dependent methyltransferase
+OMCOBO_06200	Methyltransferase
+OMCOBO_06201	Carbamoyltransferase
+OMCOBO_06202	hypothetical protein
+OMCOBO_06203	Cytochrome P450
+OMCOBO_06204	ATP-binding protein
+OMCOBO_06205	DUF742 domain-containing protein
+OMCOBO_06206	Dynein regulation protein LC7
+OMCOBO_06208	MBL fold metallo-hydrolase
+OMCOBO_06209	Putative tetR-family transcriptional regulator
+OMCOBO_06210	Membrane protein
+OMCOBO_06211	Peptidase S1 domain-containing protein
+OMCOBO_06212	Glyoxalase
+OMCOBO_06213	Vitamin K epoxide reductase family protein
+OMCOBO_06214	Putative branched-chain amino acid transport protein
+OMCOBO_06215	Branched-chain amino acid transporter AzlC
+OMCOBO_06216	Putative transcriptional regulator, AsnC family protein
+OMCOBO_06217	N-acetyltransferase
+OMCOBO_06218	hypothetical protein
+OMCOBO_06219	Secreted protein
+OMCOBO_06220	Sorbitol dehydrogenase
+OMCOBO_06221	Flavin-binding monooxygenase
+OMCOBO_06222	Methyltransferase
+OMCOBO_06223	histidine kinase
+OMCOBO_06224	DNA-binding response regulator
+OMCOBO_06225	SCP domain-containing protein
+OMCOBO_06226	RNA polymerase sigma factor
+OMCOBO_06227	Transcriptional regulator
+OMCOBO_06228	(S)-2-hydroxypropylphosphonic acid epoxidase
+OMCOBO_06229	Hybrid non-ribosomal peptide synthetase/type I polyketide synthase
+OMCOBO_06230	LacI family transcriptional regulator
+OMCOBO_06231	HTH cro/C1-type domain-containing protein
+OMCOBO_06232	6-carboxy-5,6,7,8-tetrahydropterin synthase
+OMCOBO_06233	7-carboxy-7-deazaguanine synthase
+OMCOBO_06234	GTP cyclohydrolase 1
+OMCOBO_06235	ToyE
+OMCOBO_06236	adenylosuccinate lyase
+OMCOBO_06237	adenylosuccinate synthetase
+OMCOBO_06238	ToyH
+OMCOBO_06239	ToyI
+OMCOBO_06240	7-cyano-7-deazaguanine synthase QueC
+OMCOBO_06241	ToyA
+OMCOBO_06242	Pyruvate, phosphate dikinase
+OMCOBO_06243	hypothetical protein
+OMCOBO_06244	Haloacid dehalogenase-like hydrolase domain-containing protein 2
+OMCOBO_06245	Nucleotide pyrophosphatase
+OMCOBO_06347	HDED protein
+OMCOBO_06348	ATP-binding protein
+OMCOBO_06349	isopentenyl-diphosphate Delta-isomerase
+OMCOBO_06350	Transferase
+OMCOBO_06351	Nucleotide sugar-1-phosphate transferase
+OMCOBO_06352	3-dehydroquinate synthase
+OMCOBO_06353	CDP-alcohol phosphatidyltransferase family protein
+OMCOBO_06354	Glycosyl transferase family 2
+OMCOBO_06355	Transport permease protein
+OMCOBO_06356	Teichoic acid ABC transporter ATP-binding protein
+OMCOBO_06357	squalene synthase HpnC
+OMCOBO_06358	presqualene diphosphate synthase HpnD
+OMCOBO_06359	hydroxysqualene dehydroxylase HpnE
+OMCOBO_06360	Dimethylallyltranstransferase
+OMCOBO_06361	squalene--hopene cyclase
+OMCOBO_06362	Lipoprotein
+OMCOBO_06363	adenosyl-hopene transferase HpnH
+OMCOBO_06364	Aspartate aminotransferase family protein
+OMCOBO_06365	Protein tyrosine phosphatase
+OMCOBO_06366	SGNH hydrolase
+OMCOBO_06367	Putative regulatory protein
+OMCOBO_06368	HTH cro/C1-type domain-containing protein
+OMCOBO_06369	DUF397 domain-containing protein
+OMCOBO_06370	S-adenosyl methyltransferase
+OMCOBO_06371	Radical SAM protein
+OMCOBO_06589	Glycosyl hydrolase
+OMCOBO_06590	NADH:flavin oxidoreductase/NADH oxidase
+OMCOBO_06591	Transcriptional regulator
+OMCOBO_06592	ferredoxin--NADP(+) reductase
+OMCOBO_06593	DUF6214 domain-containing protein
+OMCOBO_06594	HTH tetR-type domain-containing protein
+OMCOBO_06595	hypothetical protein
+OMCOBO_06596	Oxidoreductase
+OMCOBO_06597	LuxR family transcriptional regulator
+OMCOBO_06598	Alpha-glucosidase
+OMCOBO_06599	Hydrolase
+OMCOBO_06600	Acetyltransferase
+OMCOBO_06601	Endonuclease/exonuclease/phosphatase domain-containing protein
+OMCOBO_06602	Methyltransferase/methylase
+OMCOBO_06603	MFS transporter
+OMCOBO_06604	Regulation of enolase 1
+OMCOBO_06605	Short-chain dehydrogenase
+OMCOBO_06606	D-inositol-3-phosphate glycosyltransferase
+OMCOBO_06607	Putative transketolase
+OMCOBO_06608	Putative aminotransferase
+OMCOBO_06609	Aminoglycoside phosphotransferase domain-containing protein
+OMCOBO_06610	Effector Associated Constant Component 1
+OMCOBO_06611	Methyltransferase
+OMCOBO_06612	Manganese transporter
+OMCOBO_06613	DUF1345 domain-containing protein
+OMCOBO_06614	Epsilon-poly-L-lysine synthase
+OMCOBO_06615	Aminopeptidase N
+OMCOBO_06616	Methyltransferase
+OMCOBO_06617	DUF5709 domain-containing protein
+OMCOBO_06618	DUF2795 domain-containing protein
+OMCOBO_06619	Multidrug transporter
+OMCOBO_06620	Purine nucleosidase
+OMCOBO_06621	Transcriptional regulator
+OMCOBO_06622	Chitinase
+OMCOBO_06623	Restriction endonuclease
+OMCOBO_06624	UDP-glucose 4-epimerase
+OMCOBO_06625	Hydroxyurea phosphotransferase
+OMCOBO_06626	Hydrolase
+OMCOBO_06627	ScbA/BarX family gamma-butyrolactone biosynthesis protein
+OMCOBO_06628	ScbR family autoregulator-binding transcription factor
+OMCOBO_06629	DNA polymerase/3'-5' exonuclease PolX
+OMCOBO_06630	TetR family transcriptional regulator
+OMCOBO_06631	Cupin type-2 domain-containing protein
+OMCOBO_06896	Cytochrome P450
+OMCOBO_06897	hypothetical protein
+OMCOBO_06898	DNA-3-methyladenine glycosylase II
+OMCOBO_06899	Methylated-DNA--protein-cysteine methyltransferase
+OMCOBO_06900	3-oxoacyl-ACP reductase
+OMCOBO_06901	ScbA/BarX family gamma-butyrolactone biosynthesis protein
+OMCOBO_06902	ScbR family autoregulator-binding transcription factor
+OMCOBO_06903	MFS transporter
+OMCOBO_06951	SsgA family sporulation/cell division regulator
+OMCOBO_06952	Streptomyces killer toxin-like beta/gamma crystallin domain-containing protein
+OMCOBO_06953	ABC transporter ATP-binding protein
+OMCOBO_06954	ABC transporter
+OMCOBO_06955	hypothetical protein
+OMCOBO_06956	Excreted virulence factor EspC, type VII ESX diderm
+OMCOBO_06957	Putative T7SS secretion signal domain-containing protein
+OMCOBO_06958	hypothetical protein
+OMCOBO_06959	hypothetical protein
+OMCOBO_06960	MFS transporter
+OMCOBO_06961	Cyclodipeptide synthase
+OMCOBO_06962	Fe2OG dioxygenase domain-containing protein
+OMCOBO_06963	DUF664 domain-containing protein
+OMCOBO_06964	thioredoxin
+OMCOBO_06965	MerR family transcriptional regulator
+OMCOBO_06966	hypothetical protein
+OMCOBO_06967	Extracellular small neutral protease
+OMCOBO_06968	2OG-Fe(II) oxygenase
+OMCOBO_06969	Uracil permease
+OMCOBO_06970	8-oxoguanine deaminase
+OMCOBO_07069	PucR family transcriptional regulator
+OMCOBO_07070	Transporter
+OMCOBO_07071	ABC transporter substrate-binding protein
+OMCOBO_07072	Aliphatic sulfonates import ATP-binding protein SsuB
+OMCOBO_07073	ABC transporter permease
+OMCOBO_07074	Zinc finger CGNR domain-containing protein
+OMCOBO_07075	Alpha/beta hydrolase
+OMCOBO_07076	GNAT family N-acetyltransferase
+OMCOBO_07077	Addiction module antitoxin
+OMCOBO_07078	Protein Ves
+OMCOBO_07079	XRE family transcriptional regulator
+OMCOBO_07080	Pimeloyl-ACP methyl ester carboxylesterase
+OMCOBO_07081	DUF4334 domain-containing protein
+OMCOBO_07082	Squalene-hopene cyclase
+OMCOBO_07083	Cytochrome P450
+OMCOBO_07084	Oxidoreductase
+OMCOBO_07085	Peptidase inhibitor family I36
+OMCOBO_07086	AraC family transcriptional regulator
+OMCOBO_07087	Cysteine hydrolase
+OMCOBO_07088	Histone acetyltransferase
+OMCOBO_07089	DUF2470 domain-containing protein
+OMCOBO_07090	HtaA domain-containing protein
+OMCOBO_07091	Htaa domain-containing protein
+OMCOBO_07092	ABC transporter substrate-binding protein
+OMCOBO_07093	ABC transporter permease
+OMCOBO_07094	heme ABC transporter ATP-binding protein
+OMCOBO_07095	4-amino-4-deoxychorismate lyase
+OMCOBO_07096	Long-chain fatty acid--CoA ligase
+OMCOBO_07097	Iron ABC transporter
+OMCOBO_07098	Iron ABC transporter permease
+OMCOBO_07099	hypothetical protein
+OMCOBO_07100	class III lanthionine synthetase LanKC
+OMCOBO_07101	Lanthionine-containing peptide SapB
+OMCOBO_07102	ABC transporter ATP-binding protein
+OMCOBO_07103	ABC transporter ATP-binding protein
+OMCOBO_07104	DNA-binding response regulator
+OMCOBO_07105	Chaplin domain-containing protein
+OMCOBO_07106	DUF2304 domain-containing protein
+OMCOBO_07107	Restriction endonuclease
+OMCOBO_07108	Serine/threonine protein kinase
+OMCOBO_07109	Serine/threonine protein kinase
+OMCOBO_07110	Protein kinase
+OMCOBO_07111	Serine/threonine protein kinase
+OMCOBO_07112	LysR family transcriptional regulator
+OMCOBO_07113	Cupin
+OMCOBO_07114	Membrane protein
+OMCOBO_07157	Amine oxidase
+OMCOBO_07158	Tail assembly chaperone
+OMCOBO_07159	Methyltransferase domain-containing protein
+OMCOBO_07160	DNA-directed RNA polymerase subunit delta
+OMCOBO_07161	Short-chain dehydrogenase
+OMCOBO_07162	ScbA/BarX family gamma-butyrolactone biosynthesis protein
+OMCOBO_07163	ScbR family autoregulator-binding transcription factor
+OMCOBO_07164	Short-chain dehydrogenase
+OMCOBO_07165	adenosylhomocysteinase
+OMCOBO_07292	Glycoside-hydrolase family GH114 TIM-barrel domain-containing protein
+OMCOBO_07293	L-threonylcarbamoyladenylate synthase
+OMCOBO_07294	Lipoprotein
+OMCOBO_07295	Coagulation factor 5/8 type domain-containing protein
+OMCOBO_07296	DUF3224 domain-containing protein
+OMCOBO_07297	Transcriptional regulator
+OMCOBO_07298	xylulokinase
+OMCOBO_07299	2-deoxy-scyllo-inosamine dehydrogenase
+OMCOBO_07300	DeoR family transcriptional regulator
+OMCOBO_07301	Tryptorubin family RiPP
+OMCOBO_07302	Cytochrome
+OMCOBO_07303	Oxidoreductase
+OMCOBO_07304	Transcriptional regulator
+OMCOBO_07305	NAD(P)-dependent oxidoreductase
+OMCOBO_07306	Deoxyribodipyrimidine photo-lyase
+OMCOBO_07307	B/F/G family RNA polymerase sigma-70 factor
+OMCOBO_07308	Activator of Hsp90 ATPase-like ue 1/2-like C-terminal domain-containing protein
+OMCOBO_07309	Immunity protein 35 domain-containing protein
+OMCOBO_07310	HEAT repeat domain-containing protein
+OMCOBO_07386	Methionine import ATP-binding protein MetN
+OMCOBO_07387	ABC transporter C permease protein
+OMCOBO_07388	Lipoprotein
+OMCOBO_07389	Hydrolase
+OMCOBO_07390	Prephenate dehydrogenase
+OMCOBO_07391	LysR family transcriptional regulator
+OMCOBO_07392	CTP synthase (glutamine hydrolyzing)
+OMCOBO_07393	hypothetical protein
+OMCOBO_07394	DUF1877 domain-containing protein
+OMCOBO_07395	Isomerase
+OMCOBO_07396	Tetratricopeptide repeat protein
+OMCOBO_07397	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+OMCOBO_07398	2,3-diaminopropionate biosynthesis protein SbnA
+OMCOBO_07399	2,3-diaminopropionate biosynthesis protein SbnB
+OMCOBO_07400	TauD/TfdA-like domain-containing protein
+OMCOBO_07401	Amino acid adenylation protein
+OMCOBO_07402	Amino acid adenylation protein
+OMCOBO_07403	Oxidoreductase
+OMCOBO_07404	Deoxyribodipyrimidine photo-lyase
+OMCOBO_07405	hypothetical protein
+OMCOBO_07406	TetR family transcriptional regulator
+OMCOBO_07407	Dehydrogenase
+OMCOBO_07408	LUD domain-containing protein
+OMCOBO_07409	LutB/LldF family L-lactate oxidation iron-sulfur protein
+OMCOBO_07410	Fe-S oxidoreductase
+OMCOBO_07411	GntR family transcriptional regulator
+OMCOBO_07412	Pyridoxamine 5'-phosphate oxidase N-terminal domain-containing protein
+OMCOBO_07413	Short-chain dehydrogenase/reductase
+OMCOBO_07414	TetR family transcriptional regulator
+OMCOBO_07415	DUF998 domain-containing protein
+OMCOBO_07416	Transposase
+OMCOBO_07417	Serine protease
+OMCOBO_07418	hypothetical protein
+OMCOBO_07447	Transporter
+OMCOBO_07448	hypothetical protein
+OMCOBO_07449	Virginiamycin B lyase
+OMCOBO_07450	XRE family transcriptional regulator
+OMCOBO_07451	FAD-dependent oxidoreductase
+OMCOBO_07452	Proline dehydrogenase
+OMCOBO_07453	Pyridine nucleotide-disulfide oxidoreductase
+OMCOBO_07454	Dihydrodipicolinate synthase family protein
+OMCOBO_07455	Proline racemase
+OMCOBO_07456	Peptidase inhibitor
+OMCOBO_07457	MarR family transcriptional regulator
+OMCOBO_07458	Allantoin permease
+OMCOBO_07459	Acyl-CoA--6-aminopenicillanic acid acyl-transferase
+OMCOBO_07460	Erythromycin esterase
+OMCOBO_07461	lantibiotic dehydratase
+OMCOBO_07462	signal peptidase II
+OMCOBO_07463	Putative dienelactone hydrolase
+OMCOBO_07464	PknH-like extracellular domain-containing protein
+OMCOBO_07465	DUF6207 domain-containing protein
+OMCOBO_07466	NysG
+OMCOBO_07467	NysH
+OMCOBO_07468	GDP-mannose 4,6-dehydratase
