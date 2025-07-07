@@ -6,8 +6,8 @@ from collections import defaultdict
 # Pfade zu AntiSMASH GenBank-Output und featureCounts-Read-Zähltabelle
 gbk_file = "data/final_assembly.gbk"
 counts_file = "data/68_read_counts.tsv"
-outfile = "68_pure_glycerol_pH7_bgc_expression_summary.tsv"
-outfile_annotations = "68_pure_glycerol_pH7_bgc_gene_annotations.tsv"
+outfile = "output/68_crude_glycerol_pH4_bgc_expression_summary.tsv"
+outfile_annotations = "output/68_crude_glycerol_pH4_bgc_gene_annotations.tsv"
 
 # === 1. Einlesen der featureCounts-Datei ===
 print("[INFO] Lade Read Count Tabelle...")
@@ -30,7 +30,7 @@ total_clusters_detected = 0
 all_clusters = []
 cluster_types = {}
 
-target_types = ["region", "cand_cluster", "protocluster"]
+target_types = ["region", "cand_cluster", "protocluster", "CDS", "misc_feature"]
 
 for record in SeqIO.parse(gbk_file, "genbank"):
     cluster_count = 0

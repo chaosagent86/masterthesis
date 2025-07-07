@@ -1,0 +1,6 @@
+Download_List_of_available_Genomes_Strepto.py
+> Helpful for the very first beginning, but not necessary anymore
+
+Genomes_Download_based_on_GCF_Number.py
+Genomes_Download_based_on_GCF_Number_venezuela.py
+> needs much more time, but it seems more efficient to search for high quality genomes by hand, especcially, because at least 30% of the genomes where not downloaded for unknown reasons

@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. Einlesen der CSV-Datei und Anzeige der ersten Zeilen
-df = pd.read_csv('data/All_RNASeqs_Together.csv', sep=',')  # DataFrame mit allen Rohdaten
+df = pd.read_csv('data/RNASeq_AllTogether.csv', sep=';')  # DataFrame mit allen Rohdaten
 print("[INFO] CSV eingelesen: All_RNASeqs_Together.csv")
 print("[DEBUG] Original Table Head:")
 print(df.head(), "\n")  # Zeigt die Struktur und erste Zeilen der Daten an
